@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "To cite this repository, use:"
+license: CC-BY-4.0
+title: "Sensing improved cookstoves to estimate CO2 emission reduction"
+date-released: "2025-01-29"
+type: software
+authors:
+  - family-names: Timon
+    given-names: Mettler
+    email: timettler@ethz.ch
+    ordid: 
+  - family-names: Tkaczuk
+    given-names: Jakub
+    email: jtkaczuk@ethz.ch
+    orcid: https://orcid.org/0000-0001-7997-9423
+  - family-names: Tilley
+    given-names: Elizabeth
+    email: tilleye@ethz.ch
+    orcid: https://orcid.org/0000-0002-2095-9724
+contact:
+  - family-names: Timon
+    given-names: Mettler
+    email: timettler@ethz.ch
+    ordid: 
+version: 0.0.1
